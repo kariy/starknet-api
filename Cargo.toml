@@ -28,4 +28,4 @@ thiserror = "1.0.31"
 assert_matches = "1.5.0"
 
 [path.crates-io]
-starknet-crypto = { git = "https://github.com/kariy/starknet-rs", branch = "refactor-serde" }
+starknet-crypto = { git = "https://github.com/kariy/starknet-rs", rev = "fa8315714f35cad060dc568493a6056ada711e51" }
